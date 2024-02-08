@@ -1,0 +1,96 @@
+img.dark-logo {
+    height: 28px;
+}
+
+.bg-primary-color{
+    background: #ffffff;
+
+}
+.skin-default .topbar {
+    background: #309ed5;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255 / 50%);
+}
+img.dark-logo.logo-icon {
+    height: 40px;
+}
+.sidebar-nav>ul>li.active>a {
+    color: #309ed5;
+    font-weight: 500;
+    border-left: 3px  solid #309ed5;
+}
+.topbar .top-navbar .navbar-header {
+    background: #309ed5;
+}
+.sidebar-nav>ul>li.active>a i {
+    color: #309ed5;
+}
+.btn-info {
+    background-color: #309ed5;
+    border-color: #309ed5;
+}
+.btn-info:hover {
+    color: #fff;
+    background-color: #0b97a9;
+    border-color: #0b97a9;
+}
+
+
+#loginform ::placeholder , #loginform h3 ,#loginform input {
+    color: #000000; /* Change this to your desired color */
+}
+
+.btn-primary {
+    background-color: #309ed5;
+    border-color: #309ed5;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #6616A5;
+    border-color: #6616A5;
+}
+.bootstrap-tagsinput {
+  
+    width: 100%;
+    height: 38px;
+    padding: 0.375rem 0.75rem;
+}
+
+
+.input-group-append {
+    float: right;
+}
+
+.input-group-append  .btn-danger {
+    height: 35px;
+    background-color: #e46a76;
+    border-color: #e46a76;
+
+}
+
+
+.adHight {
+    width: 92%;
+} 
+
+
+.slim {
+    width: 30%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+.slim[data-state*=empty]:hover {
+    background-color: #fff;
+}
+.slim{
+    width: 30%;
+    margin: 0 auto;
+}
+.sw,.se,.n,.s,.e,.w,.nw,.ne{
+    display: none;
+}
+.slim-status {
+    background: #fff;
+}
